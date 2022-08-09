@@ -20,11 +20,11 @@ export default function Home() {
 
         <div className="grid">
           <a href="/posts/rick" className="card">
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h3>Cat Image &rarr;</h3>
+            <p>There is a cute image of a cat here.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className="card">
+          {/* <a href="https://nextjs.org/learn" className="card">
             <h3>Learn &rarr;</h3>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
@@ -45,7 +45,7 @@ export default function Home() {
             <p>
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
-          </a>
+          </a> */}
         </div>
       </main>
 

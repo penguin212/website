@@ -3,7 +3,8 @@ import Image from "next/image"
 
 export default function rick() {
     return (
-        <>
+        <>  
+            <Link href="/"> Menu </Link>
             <h1> omg welcome to my website</h1>
             <p> this is so cool right <br/>
                 here is cool image right <br/>
