@@ -9,12 +9,12 @@ export default function rick() {
             <p> this is so cool right <br/>
                 here is cool image right <br/>
                 she likes to collect rocks </p>
-            <Link href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"  target="_blank" rel="noopener noreferrer">
                 <Image 
                     src="/images/IMG_20220807_092716.jpg"
                     height={250}
                     width={1000} />
-            </Link>
+            </a>
             <p>
                 she has something to show you <br/>
                 she wants you to see her rock collection <br/>
