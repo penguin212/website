@@ -27,6 +27,11 @@ export default function Home() {
             <p>Leo when someone does something he doesnt like</p>
           </a>
 
+          <a href="/posts/maheshing" className="card">
+            <h3>Om &rarr;</h3>
+            <p>List of Om's shipments</p>
+          </a>
+
           {/* <a
             href="https://github.com/vercel/next.js/tree/master/examples"
             className="card"
