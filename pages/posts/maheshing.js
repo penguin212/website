@@ -10,23 +10,34 @@ export default function FirstPost() {
                     <th>Angee</th>
                     <th>Leo</th>
                     <th>Om</th>
+                    <th>Roger</th>
                 </tr>
                 <tr>
                     <th>Angee</th>
                     <td></td>
                     <td>Angeo</td>
                     <td>Omgee</td>
+                    <td>Rogee</td>
                 </tr>
                 <tr>
                     <th>Leo</th>
                     <td>Angeo</td>
                     <td></td>
                     <td>Leom</td>
+                    <td>Leoger</td>
                 </tr>
                 <tr>
                     <th>Om</th>
                     <td>Omgee</td>
                     <td>Leom</td>
+                    <td></td>
+                    <td>Rom</td>
+                </tr>
+                <tr>
+                    <th>Roger</th>
+                    <td>Rogee</td>
+                    <td>Leoger</td>
+                    <td>Rom</td>
                     <td></td>
                 </tr>
             </table>
