@@ -17,7 +17,7 @@ export default function Home() {
         
 
         <div className="grid">
-          <a href="/posts/rick" className="card">
+          <a href="/posts/cat" className="card">
             <h3>Cat Image &rarr;</h3>
             <p>There is a cute image of a cat here.</p>
           </a>
