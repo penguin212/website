@@ -22,12 +22,12 @@ export default function Home() {
             <p>There is a cute image of a cat here.</p>
           </a>
 
-          {/* <a href="https://nextjs.org/learn" className="card">
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a href="/posts/video" className="card">
+            <h3>Leo &rarr;</h3>
+            <p>Leo when someone does something he doesnt like</p>
           </a>
 
-          <a
+          {/* <a
             href="https://github.com/vercel/next.js/tree/master/examples"
             className="card"
           >
