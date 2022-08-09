@@ -14,9 +14,7 @@ export default function Home() {
           Welcome to <Link href="/posts/first-post">page</Link>
         </h1>
 
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        
 
         <div className="grid">
           <a href="/posts/rick" className="card">
@@ -49,16 +47,7 @@ export default function Home() {
         </div>
       </main>
 
-      <footer>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel" className="logo" />
-        </a>
-      </footer>
+      
 
       <style jsx>{`
         .container {

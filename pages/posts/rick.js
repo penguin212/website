@@ -17,7 +17,7 @@ export default function rick() {
             </Link>
             <p>
                 she has something to show you <br/>
-                she want you to see her rock collection <br/>
+                she wants you to see her rock collection <br/>
                 click on her and she will bring you to it :D <br/>
             </p>
         </>
